@@ -1,0 +1,10 @@
+C:\Users\Mark\Desktop\Simple Paint App in C#\bin\Debug\Paint.exe.config
+C:\Users\Mark\Desktop\Simple Paint App in C#\bin\Debug\Paint.exe
+C:\Users\Mark\Desktop\Simple Paint App in C#\bin\Debug\Paint.pdb
+C:\Users\Mark\Desktop\Simple Paint App in C#\obj\Debug\Paint Application.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\Simple Paint App in C#\obj\Debug\Paint.Form1.resources
+C:\Users\Mark\Desktop\Simple Paint App in C#\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Mark\Desktop\Simple Paint App in C#\obj\Debug\Paint Application.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Simple Paint App in C#\obj\Debug\Paint Application.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Simple Paint App in C#\obj\Debug\Paint.exe
+C:\Users\Mark\Desktop\Simple Paint App in C#\obj\Debug\Paint.pdb

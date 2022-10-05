@@ -1,0 +1,10 @@
+D:\work\asp.net C#\Csharp-projects-main\Paint\bin\Debug\Paint.exe.config
+D:\work\asp.net C#\Csharp-projects-main\Paint\bin\Debug\Paint.exe
+D:\work\asp.net C#\Csharp-projects-main\Paint\bin\Debug\Paint.pdb
+D:\work\asp.net C#\Csharp-projects-main\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\work\asp.net C#\Csharp-projects-main\Paint\obj\Debug\Paint.Form1.resources
+D:\work\asp.net C#\Csharp-projects-main\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\work\asp.net C#\Csharp-projects-main\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\work\asp.net C#\Csharp-projects-main\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\Csharp-projects-main\Paint\obj\Debug\Paint.exe
+D:\work\asp.net C#\Csharp-projects-main\Paint\obj\Debug\Paint.pdb
